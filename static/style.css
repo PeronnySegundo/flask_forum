@@ -76,7 +76,7 @@ body {
     transform: translateY(-2px);
 }
 
-/* ===== BORDA LUMINOSA ===== */
+/* ===== BORDA LUMINOSA ===== **/
 .content-container::before {
     content: "";
     position: absolute;
